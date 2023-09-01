@@ -2,4 +2,4 @@
 Classic Pong game up and down keys for the right and W and S keys for the left opponent
 
 
-<img src="result.PNG"/>
+<img src="result.PNG" width=600 height=400/>
